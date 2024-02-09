@@ -12,11 +12,14 @@ const Services = () => {
   }, []);
   //   console.log(services);
   return (
-    <div>
-      <h1 className="text-center uppercase text-4xl text-bold py-8 ">
+    <div data-aos-anchor-placement="bottom-center">
+      <h1
+        data-aos="fade-down"
+        className="text-center uppercase text-4xl text-bold py-8 "
+      >
         Our services
       </h1>
-      <div className="grid grid-cols-2 gap-4 w-10/12 mx-auto">
+      <div className="grid grid-cols-2 gap-6 w-10/12 mx-auto">
         {services.slice(0, loadmore).map((service) => (
           <Service service={service} key={service.id}></Service>
         ))}

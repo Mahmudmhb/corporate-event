@@ -1,56 +1,56 @@
 [
     {
       "id": 1,
-      "image": "business_summit_blog.jpg",
+      "image": "https://img.freepik.com/free-photo/business-marketing-strategy-plan-operations_53876-13784.jpg?w=740&t=st=1707477743~exp=1707478343~hmac=3b203880c6998a3a66cb099a6f6fa0168c94c7c62476bf442f6b8bb69daf3be6",
       "author": "John Doe",
       "shortDescription": "Explore the highlights of our recent Business Summit, where industry leaders gathered for strategic planning and networking.",
       "description": "Join us as we recap the memorable moments from our recent Business Summit. This event brought together industry leaders, visionaries, and professionals for a dynamic experience centered around strategic planning and impactful networking. From insightful keynote sessions to engaging panel discussions, our blog covers the key takeaways that shaped this influential gathering. Discover how innovation, collaboration, and forward-thinking strategies took center stage, leaving attendees inspired and equipped for success. Whether you were part of the event or looking to catch up on industry insights, this blog offers a comprehensive overview of the Business Summit's transformative impact on the business landscape."
     },
     {
       "id": 2,
-      "image": "tech_symposium_blog.jpg",
+      "image": "https://img.freepik.com/free-photo/image-by-rawpixel-com_53876-165282.jpg?w=740&t=st=1707477782~exp=1707478382~hmac=5a2c7cad71ca1936251bdc6c731be2d0f1705ee2045b277081784434e3b3c110",
       "author": "Jane Smith",
       "shortDescription": "Dive into the world of technology at our Tech Symposium, where experts discussed emerging tech trends and innovations.",
       "description": "Embark on a journey into the realm of technology with our detailed blog on the Tech Symposium. Authored by Jane Smith, this piece captures the essence of our event, where tech enthusiasts and experts gathered to explore emerging trends and groundbreaking innovations. From in-depth discussions on artificial intelligence to hands-on demonstrations of cutting-edge technologies, the Tech Symposium was a hub of knowledge and inspiration. This blog provides a 300-word dive into the event's highlights, shedding light on the transformative impact of technology in today's ever-evolving landscape. Join us as we unravel the intricacies of the Tech Symposium, offering readers a glimpse into the future of tech and its potential to shape industries and drive innovation."
     },
     {
       "id": 3,
-      "image": "leadership_workshop_blog.jpg",
+      "image": "https://img.freepik.com/free-photo/leader-leadership-skill-authority-influence-concept_53876-13895.jpg?w=826&t=st=1707477812~exp=1707478412~hmac=258182623166889a22467cfc7dade94e0eec93a7fe5cff3e92e14dc7e1b5a44d",
       "author": "Emily Johnson",
       "shortDescription": "Discover key insights from our Leadership Workshop, where professionals honed their skills to become influential leaders.",
       "description": "In our latest blog post, Emily Johnson unpacks the transformative experience of our Leadership Workshop. Dive into the world of leadership development as industry professionals honed their skills and strategies to become influential leaders. This 300-word piece provides a comprehensive overview of the workshop's key takeaways, from interactive sessions to insights from seasoned mentors. Explore how this event equipped participants with essential leadership skills, fostering personal and professional growth in a dynamic and engaging environment."
     },
     {
       "id": 4,
-      "image": "marketing_forum_blog.jpg",
+      "image": "https://img.freepik.com/free-vector/blogging-word-concept_23-2147840840.jpg?w=740&t=st=1707477853~exp=1707478453~hmac=a3d7289ff8cc34d12033047dace8731592ac54c0a253a4dd9231a226a2c697b7",
       "author": "Alex Rodriguez",
       "shortDescription": "Uncover the latest marketing strategies and trends discussed at our Marketing Forum, attended by industry experts.",
       "description": "Join Alex Rodriguez in our insightful blog post as we uncover the latest marketing strategies and trends discussed at our Marketing Forum. Dive into the dynamic world of marketing, where industry experts shared valuable insights to stay ahead in today's competitive landscape. This 300-word piece captures the essence of the forum, highlighting key discussions and offering a glimpse into the innovative approaches that drive successful marketing campaigns."
     },
     {
       "id": 5,
-      "image": "finance_symposium_blog.jpg",
+      "image": "https://img.freepik.com/free-photo/business-people-meeting_53876-20927.jpg?w=740&t=st=1707477892~exp=1707478492~hmac=06ea2164acf54feac3159c593132b55b35d2105a9e8724a33c615a6502ffc195",
       "author": "Michael Chang",
       "shortDescription": "Explore financial insights shared at our Finance Symposium, covering investment strategies and financial planning.",
       "description": "Michael Chang guides readers through an exploration of financial insights shared at our Finance Symposium in this comprehensive 300-word blog post. Delve into discussions on investment strategies, financial planning, and the latest trends shaping the finance industry. Whether you're a finance professional or an enthusiast, this blog provides a valuable overview of the symposium, offering a deep dive into sessions, discussions, and innovative approaches to building a strong and motivated workforce for organizational success."
     },
     {
       "id": 6,
-      "image": "innovation_conference_blog.jpg",
+      "image": "https://img.freepik.com/premium-photo/modern-computer-monitor-with-creative-light-bulb-hologram-with-human-brain-idea-brainstorming-concept-3d-rendering_258654-20870.jpg?w=740",
       "author": "Sophia Martinez",
       "shortDescription": "Get a glimpse into the groundbreaking innovations presented at our Innovation Conference by thought leaders in the industry.",
       "description": "Sophia Martinez takes readers on a journey into the world of groundbreaking innovations in our Innovation Conference blog post. Explore how thought leaders and industry experts showcased the latest advancements and trends shaping the future. This 300-word piece captures the excitement of the conference, from hands-on workshops to visionary presentations, offering readers a glimpse into the cutting-edge ideas that are redefining industries."
     },
     {
       "id": 7,
-      "image": "hr_summit_blog.jpg",
+      "image": "https://img.freepik.com/free-vector/human-resources-hr-typographic-header-idea-recruitment-job-management-hr-manager-interviewing-job-candidate-flat-vector-illustration_613284-1240.jpg?w=996&t=st=1707477955~exp=1707478555~hmac=6ec6193912cbe73f33d496f6fa80fa4952908c99de795e5d711e92d6aa34232e",
       "author": "Daniel Williams",
       "shortDescription": "Enhance your understanding of HR strategies with insights from our Human Resources Summit, focusing on talent management.",
       "description": "Daniel Williams brings readers insights from our Human Resources Summit in this 300-word blog post. Enhance your understanding of HR strategies, talent management, and employee engagement practices as industry experts share valuable insights. This blog provides a comprehensive overview of the summit, offering a deep dive into sessions, discussions, and innovative approaches to building a strong and motivated workforce for organizational success."
     },
     {
       "id": 8,
-      "image": "corporate_gala_blog.jpg",
+      "image": "https://img.freepik.com/premium-photo/girl-with-smartphone-records-dance-festival_559531-8162.jpg?w=740",
       "author": "Olivia Turner",
       "shortDescription": "Step into the world of luxury and success showcased at our Corporate Gala Dinner, where elegance meets corporate celebration.",
       "description": "Olivia Turner invites readers to step into the world of luxury and success in our Corporate Gala Dinner blog post. Immerse yourself in an evening where elegance meets corporate celebration. This 300-word piece captures the essence of the gala, from exquisite cuisine to live entertainment, providing readers with a glimpse into the sophistication and glamour of this premier corporate event."

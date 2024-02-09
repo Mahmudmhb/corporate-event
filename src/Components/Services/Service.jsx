@@ -3,7 +3,10 @@ import { Link } from "react-router-dom";
 const Service = ({ service }) => {
   const { id, name, image, price, shortDescription } = service;
   return (
-    <div className=" p-4 border rounded bg-gray-100 shadow-amber-400">
+    <div
+      data-aos="fade-up"
+      className=" p-4 border rounded bg-gray-100 shadow-amber-400 "
+    >
       <div>
         <img
           data-aos="fade-right"
@@ -22,7 +25,7 @@ const Service = ({ service }) => {
       </div>
 
       <Link to={`/servicedetails/${id}`}>
-        <button className="btn w-full text-white text-xl mb-2 btn-success">
+        <button className="btn w-full text-white  mb-2 btn-success">
           See Details
         </button>
       </Link>

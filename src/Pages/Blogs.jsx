@@ -13,10 +13,10 @@ const Blogs = () => {
   }, []);
   return (
     <div>
-      <h1 className="text-center uppercase text-4xl text-bold py-8 ">
+      <h1 className="text-center uppercase text-4xl text-bold py-8  ">
         Our Blogs{" "}
       </h1>
-      <div className="grid grid-cols-3 gap-4 w-10/12 mx-auto">
+      <div className="grid grid-cols-2 gap-4 w-10/12 mx-auto">
         {blogs.slice(0, loadmore).map((blog) => (
           <Blog key={blog.id} blog={blog}></Blog>
         ))}
