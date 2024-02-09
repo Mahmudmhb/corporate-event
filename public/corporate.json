@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Business Summit",
+      "image": "https://img.freepik.com/free-photo/business-people-board-room-meeting_53876-138090.jpg",
+      "price": 199.99,
+      "shortDescription": "A strategic gathering for business leaders.",
+      "description": "Join us for the Business Summit, a premier event for industry leaders and executives. This summit focuses on strategic planning, innovation, and networking. Explore the latest trends, engage in insightful discussions, and network with influential professionals. Don't miss this opportunity to elevate your business to new heights."
+    },
+    {
+      "id": 2,
+      "name": "Corporate Gala Dinner",
+      "image": "https://img.freepik.com/free-photo/group-friends-drinking-blue-curacao-night-club_329181-18644.jpg",
+      "price": 149.99,
+      "shortDescription": "An elegant evening celebrating corporate success.",
+      "description": "Experience a night of glamour and sophistication at our Corporate Gala Dinner. Enjoy exquisite cuisine, live entertainment, and connect with fellow professionals in a luxurious setting. This event is designed to celebrate corporate success and foster meaningful connections within the business community."
+    },
+    {
+      "id": 3,
+      "name": "Tech Symposium",
+      "image": "https://img.freepik.com/free-photo/technology-innovation-digital-evolution-homepage-concept_53876-165281.jpg",
+      "price": 129.99,
+      "shortDescription": "Explore the latest in technology and innovation.",
+      "description": "The Tech Symposium is a must-attend event for tech enthusiasts and professionals. Dive into discussions on emerging technologies, attend hands-on workshops, and connect with experts in the field. Stay ahead of the curve by exploring the cutting-edge advancements in the tech industry."
+    },
+    {
+      "id": 4,
+      "name": "Leadership Workshop",
+      "image": "https://img.freepik.com/free-photo/authority-corporate-businesswomen-chart-analysis-leading_53876-13754.jpg",
+      "price": 99.99,
+      "shortDescription": "Develop essential leadership skills for success.",
+      "description": "Participate in our Leadership Workshop to hone your leadership skills and become a more effective and influential leader. Engage in interactive sessions, learn from experienced mentors, and gain valuable insights into leadership strategies. Elevate your career by investing in your leadership development."
+    },
+    {
+      "id": 5,
+      "name": "Marketing Forum",
+      "image": "https://img.freepik.com/free-photo/business-entrepreneurship-marketing-plan-word_53876-15845.jpg",
+      "price": 149.99,
+      "shortDescription": "Unlock the secrets of successful marketing strategies.",
+      "description": "Join industry experts at the Marketing Forum to explore the latest marketing trends, tactics, and strategies. Gain practical insights that will enhance your marketing campaigns and help your business stand out in a competitive market. Network with marketing professionals and stay ahead in the ever-evolving world of marketing."
+    },
+    {
+      "id": 6,
+      "name": "Finance Symposium",
+      "image": "https://img.freepik.com/free-photo/financial-business-meeting_53876-94816.jpg",
+      "price": 179.99,
+      "shortDescription": "Delve into the world of finance and investment.",
+      "description": "The Finance Symposium brings together finance professionals and experts to discuss the latest trends, investment strategies, and financial planning. Attend informative sessions, connect with finance leaders, and gain valuable insights to make informed financial decisions for your business and personal growth."
+    },
+    {
+      "id": 7,
+      "name": "Innovation Conference",
+      "image": "https://img.freepik.com/free-photo/web-page-webinar-html-browser-concept_53876-13743.jpg",
+      "price": 139.99,
+      "shortDescription": "Explore groundbreaking innovations shaping the future.",
+      "description": "Join us at the Innovation Conference to discover the latest breakthroughs and trends in technology, science, and business. Engage with thought leaders, attend hands-on workshops, and explore the innovative ideas that are shaping the future. Don't miss the opportunity to be at the forefront of the next big innovations."
+    },
+    {
+      "id": 8,
+      "name": "Human Resources Summit",
+      "image": "https://img.freepik.com/free-photo/human-resource-hiring-recruiter-select-career-concept_53876-21141.jpg",
+      "price": 109.99,
+      "shortDescription": "Enhance HR strategies for organizational success.",
+      "description": "Participate in the Human Resources Summit to gain insights into the latest HR trends, talent management strategies, and employee engagement practices. Connect with HR professionals, attend informative sessions, and explore innovative approaches to building a strong and motivated workforce for organizational success."
+    }
+  ]
+  
