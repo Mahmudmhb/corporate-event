@@ -1,10 +1,12 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import Service from "./Service";
+import AuthProvider from "../../Provider/AuthProvider";
 
 const Services = () => {
+  const name = useContext(AuthProvider);
+  console.log(name);
   const [services, setServices] = useState([]);
   const [loadmore, setLoadmore] = useState(4);
-
   useEffect(() => {
     const url = "corporate.json";
     fetch(url)
@@ -15,7 +17,7 @@ const Services = () => {
   return (
     <div>
       <h1 className="text-center uppercase text-4xl text-bold py-8 ">
-        Our services{" "}
+        Our services
       </h1>
       <div className="grid grid-cols-2 gap-4 w-10/12 mx-auto">
         {services.slice(0, loadmore).map((service) => (
