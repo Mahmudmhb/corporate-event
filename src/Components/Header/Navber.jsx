@@ -1,6 +1,20 @@
+import { useContext } from "react";
 import { Link, NavLink } from "react-router-dom";
+import { AuthContext } from "../../Provider/AuthProvider";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const Navber = () => {
+  const { user, logOut } = useContext(AuthContext);
+
+  const handleLogOut = () => {
+    logOut()
+      .then((result) => {
+        console.log(result);
+        toast("Logout Succesfully");
+      })
+      .catch();
+  };
   const navber = (
     <>
       <li>
@@ -48,13 +62,23 @@ const Navber = () => {
           <ul className="menu menu-horizontal px-1">{navber}</ul>
         </div>
         <div className="navbar-end">
-          <Link to="/login" className="btn">
-            Login
-          </Link>
+          {user ? (
+            <>
+              <p>{user.email}</p>
+              <button onClick={handleLogOut} className="btn">
+                {" "}
+                Log Out
+              </button>
+            </>
+          ) : (
+            <Link to="/login" className="btn">
+              Login
+            </Link>
+          )}
         </div>
       </div>
+      <ToastContainer></ToastContainer>
     </div>
   );
 };
-
 export default Navber;

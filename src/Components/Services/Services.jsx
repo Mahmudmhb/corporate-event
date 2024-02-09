@@ -1,10 +1,7 @@
 import { useContext, useEffect, useState } from "react";
 import Service from "./Service";
-import AuthProvider from "../../Provider/AuthProvider";
 
 const Services = () => {
-  const name = useContext(AuthProvider);
-  console.log(name);
   const [services, setServices] = useState([]);
   const [loadmore, setLoadmore] = useState(4);
   useEffect(() => {
